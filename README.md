@@ -2,7 +2,7 @@
 
 A full-stack analytics dashboard for revenue, customers, orders and team management. React (Vite) single-page app on the front end, Express + MongoDB API on the back end, with JWT authentication delivered via `httpOnly` cookies.
 
-**Repository:** https://github.com/Ahmad777927/dashboard
+**Repository:** https://github.com/Ahmad777927/DashCore-Analytics-Dashboard
 
 ---
 
@@ -106,7 +106,7 @@ dashboard/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Ahmad777927/dashboard.git
+git clone https://github.com/Ahmad777927/DashCore-Analytics-Dashboard.git
 cd dashboard
 
 # 2. Install frontend dependencies
